@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 170" role="img" aria-labelledby="title desc">
+  <title id="title">KPB Empowerment logo</title>
+  <desc id="desc">Fresh gold and navy KPB Empowerment logo based on the client initials.</desc>
+  <rect width="620" height="170" rx="18" fill="#111820"/>
+  <g transform="translate(28 26)">
+    <circle cx="44" cy="23" r="17" fill="#d7a743"/>
+    <path d="M43 51c-24 0-38 20-38 51h27c0-14 4-24 12-31 8 7 12 17 12 31h27c0-31-15-51-40-51Z" fill="#d7a743"/>
+    <path d="M94 15c-20 10-31 28-33 53 17-3 31-12 42-26 9-12 15-24 18-37-9 1-18 4-27 10Z" fill="#d7a743"/>
+    <path d="M93 78c-17 5-27 18-31 40 15-2 28-9 38-21 8-9 13-18 16-28-8 0-15 3-23 9Z" fill="#d7a743"/>
+  </g>
+  <text x="166" y="72" fill="#f3c75e" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800" letter-spacing="2">K P B</text>
+  <text x="166" y="114" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" letter-spacing="1">EMPOWERMENT</text>
+  <text x="166" y="143" fill="#d7a743" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600">Empowering People. Elevating Businesses.</text>
+</svg>

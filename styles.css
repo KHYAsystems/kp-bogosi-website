@@ -64,16 +64,11 @@ select {
   gap: 12px;
 }
 
-.brand-mark {
-  display: grid;
-  width: 46px;
-  height: 46px;
-  place-items: center;
+.brand-logo {
+  width: 86px;
+  height: auto;
   border-radius: 8px;
-  background: var(--charcoal);
-  color: var(--gold-soft);
-  font-family: "Sora", Arial, sans-serif;
-  font-weight: 800;
+  box-shadow: 0 8px 22px rgba(18, 24, 32, 0.14);
 }
 
 .brand strong,
@@ -191,6 +186,12 @@ h3 {
   display: grid;
   gap: 12px;
   margin-top: 28px;
+}
+
+.contact-actions {
+  display: grid;
+  gap: 12px;
+  margin-top: 26px;
 }
 
 .btn {
@@ -516,6 +517,11 @@ cite {
 @media (min-width: 720px) {
   .hero-actions {
     display: flex;
+  }
+
+  .contact-actions {
+    display: flex;
+    flex-wrap: wrap;
   }
 
   .stats,

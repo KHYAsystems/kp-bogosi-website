@@ -62,8 +62,8 @@ document.querySelector(".booking-form").addEventListener("submit", (event) => {
   const service = form.service.value;
   const name = form.name.value || "there";
   const message = encodeURIComponent(
-    `Hello KP Bogosi, my name is ${name}. I would like to book a ${service}.`
+    `Hello KPB Empowerment, my name is ${name}. I would like to book a ${service}.`
   );
 
-  window.location.href = `https://wa.me/27000000000?text=${message}`;
+  window.location.href = `https://wa.me/27766363298?text=${message}`;
 });
